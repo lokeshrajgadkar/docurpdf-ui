@@ -4,7 +4,7 @@ import { HugeiconsIcon } from "@hugeicons/react"
 
 function Footer() {
   return (
-    <footer className="bg-base-200 border-t border-base-300 mt-24">
+    <footer className="bg-base-200 border-t border-base-300">
       <div className="container mx-auto px-6 lg:px-16 py-16">
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
