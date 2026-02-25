@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar'
 import ConverterCard from './components/ConverterCard'
-import Herosection from './components/Herosection'
+import Herosection from './components/HeroSection'
 import Footer from './components/Footer'
 
 function App() {
