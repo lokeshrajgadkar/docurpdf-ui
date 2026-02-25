@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:8080/api/v1/conversion",
+  baseURL: "https://docurpdf-app.onrender.com/api/v1/conversion",
 });
 
 export const convertPdfToWord = (formData, onUploadProgress) => {
